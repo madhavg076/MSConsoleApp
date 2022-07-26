@@ -10,7 +10,7 @@ namespace MSConsoleApp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Hello, This is the test app!");
         }
     }
 }
